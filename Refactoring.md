@@ -9,3 +9,4 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
 ## Your Explanation Here
+I made some improvements to the code to simplify it and make it easier to understand. I removed unnecessary variables and eliminated any If-Else statements that were only used once. This makes the code easier to read and follow. To further improve clarity, I added comments to explain what each section of the code does.

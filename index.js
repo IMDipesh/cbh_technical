@@ -1,4 +1,3 @@
-//const {deterministicPartitionKey} = require("./dpk");
-const {deterministicPartitionKey} = require("./refactor_dpk");
+const {deterministicPartitionKey} = require("./dpk");
 
 console.log(deterministicPartitionKey());
